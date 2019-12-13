@@ -1,0 +1,25 @@
+step 1:
+------------
+collection of geo and socio data: done
+digest socio-eco of each neighborhood and sub-neighborhood : 
+geojson for choropeth (I have it)
+create a chroropeth map
+
+Step 2
+-------
+clustering of neighboorhood with the above data
+
+Step 3
+-------
+reach Foursquare to explore the venue of each neighborhood in a range
+reach Facebook to explore the venue of each neighborhood in a range
+merge the 2
+
+step 4
+--------
+for the selected neighbood find the venues that are competitors
+
+
+
+
+
