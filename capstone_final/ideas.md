@@ -36,36 +36,37 @@ this is an examge file
  - Criminal rate if possible
  - city traffic
  
- Analytic appraoch
- We will use unsupervised Machine Learning (ML) clustering to find Montpellier neighborhood that are similar of the one of la ö. We will display that on a map. 
+ Analytic approach
+ We will use unsupervised Machine Learning (ML) clustering to find Montpellier neighborhood that are similar to the one of la ö. We will display that on a map for a preliminary overview. 
  Then we will focus on the competitors that are into the same cluster and compare their rating with the ones of La ö. We will display that with regular graph.
  Other ML algo ?
  
  Data source
  - facebook graph API
- - Foursquare
- - OpenData Monpellier (https://data.montpellier3m.fr/)
+ - FourSquare API
+ - OpenData Monpellier (https://data.montpellier3m.fr/) : demographic data, geographic data, socioeconomic data of each neighborhood
+ Unfortunately FourSquare data source does not include restaurant La ö neither a lot of other venues in Montpellier.
+ 
+ References
+ - Géolocalisation details (https://perso.esiee.fr/~courivad/Python1/15-geo.html)
+ - https://data.montpellier3m.fr/
+ - https://www.insee.fr
+ - https://www.insee.fr/fr/statistiques/1405599?geo=EPCI-243400017
+ - https://inhesj.fr/ondrp
+ - https://www.data.gouv.fr
+ - https://france-decouverte.geoclip.fr
  
  
+ wikipedia
  
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
-  Unfortunately FourSquare data source does not include this restaurant neither a lot of other venues in Montpellier.
-  
-  
-  ----------------------
-  
-    The aim is to improve the ambulatory surgery policy of a hospital in order to reallocate surgeries currently requiring non-ambulatory process to less expensive ambulatory process. Of course the quality of care of the patient shall stay the same.   The health care professionals should be reallocated and trained to support this shift.
+ Neighbourhoods of Montpellier
+Since 2001, Montpellier has been divided into seven official neighbourhoods, themselves divided into sub-neighbourhoods. Each of them possesses a neighbourhood council.
 
-Currently the ambulatory surgery is only available for some specific kinds of surgery. Not all kind of surgeries can be moved to ambulatory mode.
-
-As ambulatory is known to be cheaper for the hospital because beds are not occupied full time, the saved money would be reallocated to non-ambulatory surgeries which may require more technical and human resources to be achieved with the best quality.
-
+    Montpellier-centre : historical centre (Écusson), Comédie, Gares, Faubourg Boutonnet, Saint-Charles, Faubourg Saint-Jaume, Peyrou, Les Arceaux, Figuerolles, Faubourg du Courreau, Gambetta, Clémenceau, Méditerranée, boulevard de Strasbourg, Le Triangle, Polygone, Antigone, Nouveau-Monde, Parc à Ballons, Les Aubes, Les Beaux-Arts, Saint-Lazare.
+    Croix-d'Argent : avenue de Toulouse, Croix d'Argent, Mas Drevon, Tastavin, Lemasson, Garosud, Mas de Bagnères, Mas Nouguier, les Sabines, Lepic, Pas du Loup, Estanove, les Bouisses, Val-de-Crozes, Bagatelle.
+    Les Cévennes : Les Cévennes, Alco, Le Petit Bard, Pergola, Saint-Clément, Clémentville, Las Rebès, La Chamberte, La Martelle, Montpellier-Village, Les Grisettes, Les Grèzes.
+    Mosson : La Mosson, Celleneuve, La Paillade, les Hauts-de-Massane, Le Grand-Mail, Les Tritons.
+    Hôpitaux-Facultés : Malbosc, Saint-Priest, Euromédecine, Zolad, Plan des 4 Seigneurs, Hôpitaux, IUT, Père Soulas, Universités, Vert-Bois, Hauts de Boutonnet, Aiguelongue, Justice, Parc zoologique de Lunaret, Agropolis.
+    Port-Marianne : La Pompignane, Richter, Millénaire, Jacques Cœur, Consuls de Mer, Grammont, Odysseum, Montaubérou, La Méjanelle, Cambacérès.
+    Prés d'Arènes : Les Prés d'Arènes, Avenue de Palavas, La Rauze, Tournezy, Saint-Martin, Les Aiguerelles, Pont-Trinquat, Cité Mion.
+ 
