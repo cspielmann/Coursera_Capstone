@@ -2,36 +2,32 @@ this is an examge file
     A description of the problem and a discussion of the background. (15 marks)
     A description of the data and how it will be used to solve the problem. (15 marks)
     
-  
   Restaurant "La ö" wants to go big !
   Could "La ö" restaurant be turned as a franchise business into other montpellier ? 
   
   Introduction
   
   Two very friends of mine, Laura and Denis, are hosting a very good and high-end "fast" food restaurant in Montpellier,France. You can get more detail on the venue and the delicisous meals they propose daily (all homemade!) on their facebook account (https://www.facebook.com/restaurant.la.o/). The restaurant is located in the ArtFx special effects school premises (https://artfx.school/) and propose lunch and snacks to students and white-collar people of the sourroundings. 
-  If you go to this city, feel free to drop yourself there and tell to Laura that you got this address from Christophe of Zoufftgen. (ask for the Poutine meal...)
+  If you go to this city, feel free to drop yourself there and tell to Laura that you got this address from Elisabeth and Christophe of Zoufftgen. (ask for the Poutine meal...)
   In order to pursue their adventure, Laura and Denis would be interesting to see if restaurant "La ö" could be turned out as a franchise restaurant business. Hence several question may help them to see if it worth the pain:
   - Where do we find neighborhoods in Montpellier (and other cities in the future) that are similar to the  one where the restaurant is currently located "La ö"? (in terms of inhabitants, working customer, business offices and venues) 
   - What are the competitor that they may face in those similar neighbourhood?
-  - What are the ratings of those competitors compared to the ones of "La ö"?
-  - What is the trend of each neighborhood in the next 10 years? 
+  - What are the ratings of those competitors compared to the ones of "La ö"? 
  
  Data requirement
  
  - Geographic and demographic data of montpellier neighboorhood.
  - List of venues in montpellier including ratings.
- - Criminal rate if possible
- - city traffic
  
  Analytic approach
- We will use unsupervised Machine Learning (ML) clustering to find Montpellier neighborhood that are similar to the one of la ö. We will display that on a map for a preliminary overview. 
- Then we will focus on the competitors that are into the same cluster and compare their rating with the ones of La ö. We will display that with regular graph.
- Other ML algo ?
+ We will use unsupervised Machine Learning (ML) clustering to find Montpellier neighborhood that are similar to the one of restaurant "la ö". We will display those on a map for a preliminary overview. 
+ Then we will focus on the competitors: to identify them, we will do a supervised classifier model.
+ Then we would compare their rating with the ones of "La ö". We will display that with regular graph. 
  
  Data source
- - facebook graph API
- - FourSquare API
- - OpenData Monpellier (https://data.montpellier3m.fr/) : demographic data, geographic data, socioeconomic data of each neighborhood
+ - facebook graph API 
+ - FourSquare API (does not contain a lot of data about monpellier)
+ - OpenData Monpellier (https://data.montpellier3m.fr/): demographic data, geographic data, socioeconomic data of each neighborhood
  Unfortunately FourSquare data source does not include restaurant La ö neither a lot of other venues in Montpellier.
  
  References
