@@ -2,31 +2,18 @@ this is an examge file
     A description of the problem and a discussion of the background. (15 marks)
     A description of the data and how it will be used to solve the problem. (15 marks)
     
-    
-    - Business understanding
-    - Analytic Approach
-    - Data requirement
-    - Data collection
-    - Data understanding
-    - Data preparation
-    - Modeling
-    - Evaluation
-    - Deployment / feedback
-    
-    
-    
   
-  "La ö" goes big !
+  Restaurant "La ö" wants to go big !
   Could "La ö" restaurant be turned as a franchise business into other montpellier ? 
   
   Introduction
   
-  Two very friends of mine, Laura and Denis, are hosting a very good and cheap restaurant in Montpellier,France that is a high end sandwicherie. You can get more detail on the venue and the delicisous meals they propose daily (homemade!) on their facebook account (https://www.facebook.com/restaurant.la.o/). The restaurant is located in in the artfx school premises (https://artfx.school/) and propose food and snaks for lunch of students and white-collar people of the sourroundings. 
-  If you go to this city, feel free to drop yourself there and tell to Laura that you got this address from Christophe of Zoufftgen. (ask the the Poutine meal...)
-  In order to pursue their adventure, Laura and Denis would be interesting to see if "La ö" could be turned as a franchise restaurant business. Hence several question may help them to see if it worth the pain:
-  - Where do we find neighborhoods in Montpellier and other cities that are similar to the current one of "La ö"? (in terms of inhabitants, working customer, business and venues) 
-  - What are the competitor that they may face in those simlar neighboor hood?
-  - What are the ratings of those competitors compared to the ones of La ö?
+  Two very friends of mine, Laura and Denis, are hosting a very good and high-end "fast" food restaurant in Montpellier,France. You can get more detail on the venue and the delicisous meals they propose daily (all homemade!) on their facebook account (https://www.facebook.com/restaurant.la.o/). The restaurant is located in the ArtFx special effects school premises (https://artfx.school/) and propose lunch and snacks to students and white-collar people of the sourroundings. 
+  If you go to this city, feel free to drop yourself there and tell to Laura that you got this address from Christophe of Zoufftgen. (ask for the Poutine meal...)
+  In order to pursue their adventure, Laura and Denis would be interesting to see if restaurant "La ö" could be turned out as a franchise restaurant business. Hence several question may help them to see if it worth the pain:
+  - Where do we find neighborhoods in Montpellier (and other cities in the future) that are similar to the  one where the restaurant is currently located "La ö"? (in terms of inhabitants, working customer, business offices and venues) 
+  - What are the competitor that they may face in those similar neighbourhood?
+  - What are the ratings of those competitors compared to the ones of "La ö"?
   - What is the trend of each neighborhood in the next 10 years? 
  
  Data requirement
@@ -60,9 +47,7 @@ this is an examge file
  wikipedia
  
  Neighbourhoods of Montpellier
-Since 2001, Montpellier has been divided into seven official neighbourhoods, themselves divided into sub-neighbourhoods. Each of them possesses a neighbourhood council.
-
-    Montpellier-centre : historical centre (Écusson), Comédie, Gares, Faubourg Boutonnet, Saint-Charles, Faubourg Saint-Jaume, Peyrou, Les Arceaux, Figuerolles, Faubourg du Courreau, Gambetta, Clémenceau, Méditerranée, boulevard de Strasbourg, Le Triangle, Polygone, Antigone, Nouveau-Monde, Parc à Ballons, Les Aubes, Les Beaux-Arts, Saint-Lazare.
+Since 2001, Montpellier has been divided into seven official neighbourhoods, themselves divided into sub-neighbourhoods. They are Montpellier-centre : historical centre (Écusson), Comédie, Gares, Faubourg Boutonnet, Saint-Charles, Faubourg Saint-Jaume, Peyrou, Les Arceaux, Figuerolles, Faubourg du Courreau, Gambetta, Clémenceau, Méditerranée, boulevard de Strasbourg, Le Triangle, Polygone, Antigone, Nouveau-Monde, Parc à Ballons, Les Aubes, Les Beaux-Arts, Saint-Lazare.
     Croix-d'Argent : avenue de Toulouse, Croix d'Argent, Mas Drevon, Tastavin, Lemasson, Garosud, Mas de Bagnères, Mas Nouguier, les Sabines, Lepic, Pas du Loup, Estanove, les Bouisses, Val-de-Crozes, Bagatelle.
     Les Cévennes : Les Cévennes, Alco, Le Petit Bard, Pergola, Saint-Clément, Clémentville, Las Rebès, La Chamberte, La Martelle, Montpellier-Village, Les Grisettes, Les Grèzes.
     Mosson : La Mosson, Celleneuve, La Paillade, les Hauts-de-Massane, Le Grand-Mail, Les Tritons.
