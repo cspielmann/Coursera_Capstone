@@ -17,7 +17,12 @@ merge the 2
 
 step 4
 --------
-for the selected neighbood find the venues that are competitors
+for the selected neighbood find the venues that are competitors using the venues caracteristics.
+Do a classifier
+
+step 5
+-------
+look for the rates of those venues and compare the date and rating of La ö with those
 
 
 
